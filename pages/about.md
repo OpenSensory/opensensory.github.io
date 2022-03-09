@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about
----
-
 This is a work in progress detailing the concept of Pollinator Enhancement Collaborative (PECs). PCEs are envisioned as local, voluntary associations organized to increase the area and quality of pollinator habitat on working lands in the United States. The work is supported in part by [Regen Network’s 2022 Community Funding Program](https://medium.com/regen-network/congratulations-to-our-community-funding-program-awardees-50c023a21d8).
 
 ### Project Aim and Scope
