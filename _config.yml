@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "The Willamette Pollinator Enhancement Collaborative"
 description:	       "an experiment in community technology for conservation"
-author:              "Kyle Birchard"
+author:              "Open Sensory"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
