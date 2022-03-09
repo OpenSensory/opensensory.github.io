@@ -2,7 +2,7 @@
 layout: post
 title: "Operating Model"
 author: "Kyle Birchard"
-categories: documentation
+categories: post
 tags: [documentation,sample]
 image: 02-masonbee.jpg
 ---
