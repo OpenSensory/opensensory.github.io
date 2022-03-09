@@ -2,7 +2,7 @@
 layout: post
 title: "Governance Tech"
 author: "Kyle Birchard"
-categories: documentation
+categories: post
 tags: [documentation,sample]
 image: 03-apples.jpg
 ---
