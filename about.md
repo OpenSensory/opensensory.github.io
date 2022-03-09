@@ -4,3 +4,7 @@ This is a work in progress detailing the concept of Pollinator Enhancement Colla
 
 Our aim with this project is to develop a template for pollinator enhancement collaboratives: legal entities linking stewards of working lands, conservation funders, and their local communities. Members of these collaboratives contribute resources, such as monitoring, knowledge, materials, and technology. They also support fundraising and research activities, with the aim to make it easier to start up projects in response to local needs.
 Our initial test case will be to provide incentives for landscape stewards to plant appropriate habitat at times and in places where they otherwise would not be available, starting with fruit, wine grapes, and nursery products in Oregon’s Willamette Valley.  
+
+### About Us
+
+Based in Portland, Oregon, [Open Sensory](https://opensensory.net) is the open source development community of [Integrative Economics, LLC](https://integrativeecon.com). We work at the intersection of agriculture, ecosystems, and technology to support stewardship of natural resources and the communities that depend on them.
