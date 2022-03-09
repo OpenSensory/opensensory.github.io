@@ -6,6 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 image: 02-masonbee.jpg
 ---
+*Photo credit: https://www.flickr.com/photos/infrastructure/44994550751/*
 
 # Operating Model
 
