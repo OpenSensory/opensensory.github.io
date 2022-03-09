@@ -7,4 +7,4 @@ Our initial test case will be to provide incentives for landscape stewards to pl
 
 ### About Us
 
-Based in Portland, Oregon, [Open Sensory](https://opensensory.net) is the open source development community of [Integrative Economics, LLC](https://integrativeecon.com). We work at the intersection of agriculture, ecosystems, and technology to support stewardship of natural resources and the communities that depend on them.
+Based in Portland, Oregon, [Open Sensory](https://opensensory.net) is the open source development community of [Integrative Economics, LLC](http://integrativeecon.com). We work at the intersection of agriculture, ecosystems, and technology to support stewardship of natural resources and the communities that depend on them.
