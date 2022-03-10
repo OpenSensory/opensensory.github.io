@@ -1,3 +1,3 @@
-Find us on [Twitter](https://twitter.com/intent/tweet?text=My%question%about%WPEC%is:%&amp;via=integrativeecon)
+Find us on [Twitter](https://twitter.com/IntegrativeEcon)
 
 Or [email](mailto:hello@opensensory.net)
