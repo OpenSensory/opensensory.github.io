@@ -1,1 +1,1 @@
-A formal white paper and documentation for community members are planned for Q2 2022.
+A formal white paper and documentation for community members are planned for Q4 2022.
