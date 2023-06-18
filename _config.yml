@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "The Willamette Pollinator Enhancement Collaborative"
-description:	       "an experiment in community technology for conservation"
+title:		           "Open Sensory"
+description:	       "an experiment in community technology for agriculture"
 author:              "Open Sensory"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
