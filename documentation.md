@@ -1,1 +1,1 @@
-A formal white paper and documentation for community members are planned for Q4 2022.
+We will be publishing tools on [GitHub](https://github.com/OpenSensory) in 2023.
